@@ -76,7 +76,8 @@ def get_readable_time(seconds: int) -> str:
     return ping_time
 
 
-PM_START_TEXT = "Hi {}, my name is {} 👸\n\nI'm a next gen powerful group manager bot. Made by [KRISHNA_THULASI](t.me/krishna_thulasi)\n\nHit /help to find my list of available commands"
+PM_START_TEXT = "Hi {}, my name is {} 👸\n\nI am a group management bot for manage groups under KING🐍COBRA FED . 
+. Made by [KRISHNA_THULASI](t.me/krishna_thulasi)\n\nHit /help to find my list of available commands"
 
 HELP_STRINGS = """
 Hey there! My name is *{}*.
@@ -95,7 +96,7 @@ I'm a group management bot, here to help you get around and keep the order in yo
     "" if not ALLOW_EXCL else "\nAll commands can either be used with / or !\n",
 )
 
-SAITAMA_IMG = "https://telegra.ph/file/86bc4072a903797c1262f.jpg"
+SAITAMA_IMG = "https://telegra.ph/file/5a35696c1389fed063357.jpg"
 
 DONATE_STRING = """Heya, glad to hear you want to donate for developer. This bot runs on heroku so bot slow down some times and developer cannot add more modules due to heroku can't run them.\n\nBetter if my developer recieved a VPS to run the bot. Contact him and help him to continue this.\n\nDeveloper: [@krishna_thulasi](t.me/krishna_thulasi)"""
 
@@ -227,14 +228,19 @@ def start(update: Update, context: CallbackContext):
                             ),
                             InlineKeyboardButton(
                                 text="📌 Updates Channel",
-                                url="https://t.me/stenzle",
+                                url="https://t.me/kingcobrafedbot",
                             ),
                         ],
                         [
                             InlineKeyboardButton(
-                                text= "PARENT", url="https://github.com/sakhaavvaavaj93"
+                                text= "King🐍COBRA Fed_Logs",url="https://t.me/Kingcobrafederationproofs",
                             ),
                         ],
+                        [
+                            InlineKeyboardButton(
+                                text="CHAT💬GROUP",url="https://t.me/Anbe_Aaruyire",
+                            ),
+                         ],
                     ]
                 ),
             )
