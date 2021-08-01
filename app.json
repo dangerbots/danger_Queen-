@@ -70,7 +70,7 @@
       },
       "TIME_API_KEY": {
          "description": "Required for timezone information. Get yours from https://timezonedb.com/api",
-         "required": true,
+         "required": false,
          "value": ""
       },
       "DEV_USERS": {
