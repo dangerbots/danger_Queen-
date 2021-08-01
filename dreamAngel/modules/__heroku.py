@@ -2,14 +2,14 @@ import asyncio
 import math
 import os
 
-import heroku3
+import heroku
 import requests
 
 from dreamAngel import telethn as borg, HEROKU_APP_NAME, HEROKU_API_KEY, OWNER_ID
 from dreamAngel.events import register
 
 heroku_api = "https://api.heroku.com"
-Heroku = heroku3.from_key(HEROKU_API_KEY)
+Heroku = heroku.from_key(HEROKU_API_KEY)
 
 
 @register(pattern="^/(set|see|del) var(?: |$)(.*)(?: |$)([\s\S]*)")
