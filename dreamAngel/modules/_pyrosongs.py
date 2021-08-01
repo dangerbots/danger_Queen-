@@ -6,7 +6,7 @@ import youtube_dl
 from pyrogram import filters
 from dreamAngel import pbot
 from youtube_search import YoutubeSearch
-
+from dreamAngel.pyrogramee.errors import capture_err
 
 
 def time_to_seconds(time):
@@ -72,4 +72,4 @@ def song(client, message):
         print(e)
 
 
-__mod_name__ = "pyrosong"
+__mod_name__ = "🎵pyrosong🎵"
