@@ -1,9 +1,8 @@
 import asyncio
 import math
 import os
-
-import heroku
 import requests
+
 
 from dreamAngel import telethn as borg, HEROKU_APP_NAME, HEROKU_API_KEY, OWNER_ID
 from dreamAngel.events import register
