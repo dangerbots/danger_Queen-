@@ -76,20 +76,16 @@ def get_readable_time(seconds: int) -> str:
     return ping_time
 
 
-PM_START_TEXT = "Hi {}, my name is {} 👸\n\nI am a group management bot for manage groups under KING🐍COBRA FED . 
-. Made by [KRISHNA_THULASI](t.me/krishna_thulasi)\n\nHit /help to find my list of available commands"
+PM_START_TEXT = "Hi {}, my name is {}\n\nI am a group management bot for manage groups under KING_COBRA FED . Made by [KRISHNA_THULASI](t.me/krishna_thulasi)\n\nHit /help to find my list of available commands"
 
 HELP_STRINGS = """
-Hey there! My name is *{}*.
-I'm a group management bot, here to help you get around and keep the order in your groups!
+Hey there! My name is *{}*.I'm a group management bot to control groups under KING_COBRA_FED
 
-*Main* commands available:
- ✪ /help: PM's you this message.
- ✪ /help <module name>: PM's you info about that module.
- ✪ /donate: information on how to donate!
- ✪ /settings:
-   ◔ in PM: will send you your settings for all supported modules.
-   ◔ in a group: will redirect you to pm, with all that chat's settings.
+- FED OWNERS 
+
+  * ![ ꧁༺᯽💞 𝑨𝒏𝒖𝒔𝒉𝒂 𝒇𝒍𝒐𝒓𝒊𝒏𝒂 💞᯽༻꧂](https://t.me/Jillu_honey) 
+  
+  * ![˚₊· ͟͟͞͞➳❥𝙈𝙖𝙧𝙪𝙩𝙝𝙪 𝙈𝙖𝙧𝙞𝙣𝙚𝙧𖣘𖣘](https://t.me/Marinemafiya)
 {}
 """.format(
     dispatcher.bot.first_name,
