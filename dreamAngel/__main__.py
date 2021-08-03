@@ -206,8 +206,8 @@ def start(update: Update, context: CallbackContext):
                     [
                         [
                             InlineKeyboardButton(
-                                text="➕ Add dreamAngel to your Group",
-                                url="t.me/{}?startgroup=true".format(
+                                text="➕ Add 《ᴤᴛᴲᴎᴣᴌᴇ᚛〄᚜ᴹᴀᴙᴉᴀ󠀺》 to your Group",
+                                url="t.me/Stenzle_MariaGbot?startgroup=true".format(
                                     context.bot.username
                                 ),
                             )
@@ -224,7 +224,7 @@ def start(update: Update, context: CallbackContext):
                         ],
                         [
                             InlineKeyboardButton(
-                                text= "PARENT", url="https://github.com/sakhaavvaavaj93"
+                                text= "🅺🅺 𝙻𝙸𝙽𝙺𝙼𝙰𝚁𝙺𝙴𝚃", url="https://t.me/KK_LINKS"
                             ),
                         ],
                     ]
