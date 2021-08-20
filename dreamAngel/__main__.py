@@ -219,7 +219,7 @@ def start(update: Update, context: CallbackContext):
                             ),
                             InlineKeyboardButton(
                                 text="founder",
-                                url="https://Marinemafiya",
+                                url="https://t.me/Marinemafiya",
                             ),
                         ],
                         [
