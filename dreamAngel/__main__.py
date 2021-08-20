@@ -76,7 +76,7 @@ def get_readable_time(seconds: int) -> str:
     return ping_time
 
 
-PM_START_TEXT = "Hi {}, my name is {} 👸\n\nI'm a next gen powerful group manager bot.special Made for 🅺🅺 🅰🆁🅼🆈 by [デ̶ ̶̶̶༒ ̶̶̶ ᷝ ̶̶ᷟ᚜ℍ͢͢͢e𝓪vΣŇ᚛𒃯⃪⃪ʜᴀ͢͢͢ᴛ༒ᴇʀ ̶̶͞▵꙱:᚜⏤͟͟͞͞◤ᴋᴋᵃʳᵐʸ ⃟✯❮](tk_k_heavenHaterboy.me/)\n\n𝗮𝗯𝗼𝘂𝘁 🅺🅺 \n\nKK ARMY IS A FAMILY GROUP ,which contains all beautiful friendships .its provide most security on girls in more groups. we have 14 groups in KK ARMY. We have a federation ,[KK ARMY FED](https://t.me/kk_army_log)\n\nKK ARMY have wonderful Admin pannel which contains lots of fed owners\n\nand our groups generally controlled by [▼‌◣‌⃟⃟⃟⃟⃟࿅‌ ̶̶꯭꯭꯭꛱͟͟͞❰❰꯭꯭꯭ ⃘Ꭰᴀʀᴋ💢 ̶̶꯭꯭꯭꛱͟͟͞❰❰꯭꯭꯭ ⃘ ⃘Ꭰ꯭ᴇᴠᴉɭ✇࿅‌⃟⃟⃟](Full_Crual_Mind)\n\n Hit /help to find my list of available commands"
+PM_START_TEXT = "Hi {}, my name is {} 👸\n\n One of the Most Powerfull Telegram ProBot to Manage Your Groups🤗,feel free to add to your groups!!And mainly Created for Tamil users❤️. Many Tamil Fun Tools are there😋. You can check with /help ❣️!"
 
 HELP_STRINGS = """
 Hey there! My name is *{}*.
@@ -87,7 +87,7 @@ i am only pro bot of 🅺🅺🄰🅁🄼🅈 .\n\nyou can see the Groups under 
     "" if not ALLOW_EXCL else "\nAll commands can either be used with / or !\n",
 )
 
-SAITAMA_IMG = "https://telegra.ph/file/994bb7ed835eef545ca7b.jpg"
+SAITAMA_IMG = "https://telegra.ph/file/ad8b3c54bf7b202f7a07f.jpg"
 
 DONATE_STRING = """Heya, glad to hear you want to donate for developer. This bot runs on heroku so bot slow down some times and developer cannot add more modules due to heroku can't run them.\n\nBetter if my developer recieved a VPS to run the bot. Contact him and help him to continue this.\n\nDeveloper: [@krishna_thulasi](t.me/krishna_thulasi)"""
 
