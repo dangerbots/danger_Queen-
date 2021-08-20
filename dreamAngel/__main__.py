@@ -80,7 +80,7 @@ PM_START_TEXT = "Hi {}, my name is {} 👸\n\n One of the Most Powerfull Telegra
 
 HELP_STRINGS = """
 Hey there! My name is *{}*.
-i am only pro bot of 🅺🅺🄰🅁🄼🅈 .\n\nyou can see the Groups under KK IN HERE [KK LINK MARKET](https://t.me/KK_LINKS)
+i am only pro bot of tamil users❤)
 {}
 """.format(
     dispatcher.bot.first_name,
@@ -89,7 +89,7 @@ i am only pro bot of 🅺🅺🄰🅁🄼🅈 .\n\nyou can see the Groups under 
 
 SAITAMA_IMG = "https://telegra.ph/file/ad8b3c54bf7b202f7a07f.jpg"
 
-DONATE_STRING = """Heya, glad to hear you want to donate for developer. This bot runs on heroku so bot slow down some times and developer cannot add more modules due to heroku can't run them.\n\nBetter if my developer recieved a VPS to run the bot. Contact him and help him to continue this.\n\nDeveloper: [@krishna_thulasi](t.me/krishna_thulasi)"""
+DONATE_STRING = """Heya, glad to hear you want to donate for developer. This bot runs on heroku so bot slow down some times and developer cannot add more modules due to heroku can't run them.\n\nBetter if my developer recieved a VPS to run the bot. Contact him and help him to continue this.\n\nDeveloper: [DANGER BOTS](t.me/DANGER_BOTS)"""
 
 IMPORTED = {}
 MIGRATEABLE = []
@@ -206,25 +206,25 @@ def start(update: Update, context: CallbackContext):
                     [
                         [
                             InlineKeyboardButton(
-                                text="➕ Add 《ᴤᴛᴲᴎᴣᴌᴇ᚛〄᚜ᴹᴀᴙᴉᴀ󠀺》 to your Group",
-                                url="t.me/Stenzle_MariaGbot?startgroup=true".format(
+                                text="➕ Add ME",
+                                url="t.me/isaiminibot?startgroup=true".format(
                                     context.bot.username
                                 ),
                             )
                         ],
                         [
                             InlineKeyboardButton(
-                                text="👥 Support Group",
+                                text="support chat",
                                 url=f"https://t.me/{SUPPORT_CHAT}",
                             ),
                             InlineKeyboardButton(
-                                text="📌 Updates Channel",
-                                url="https://t.me/stenzle",
+                                text="founder",
+                                url="https://Marinemafiya",
                             ),
                         ],
                         [
                             InlineKeyboardButton(
-                                text= "🅺🅺 𝙻𝙸𝙽𝙺𝙼𝙰𝚁𝙺𝙴𝚃", url="https://t.me/KK_LINKS"
+                                text= "Dev", url="https://t.me/Danger_bots"
                             ),
                         ],
                     ]
