@@ -80,7 +80,7 @@ PM_START_TEXT = "Hi {}, my name is {} 👸\n\n One of the Most Powerfull Telegra
 
 HELP_STRINGS = """
 Hey there! My name is *{}*.
-i am only pro bot of tamil users❤)
+i am only pro bot of tamil users❤
 {}
 """.format(
     dispatcher.bot.first_name,
@@ -215,7 +215,7 @@ def start(update: Update, context: CallbackContext):
                         [
                             InlineKeyboardButton(
                                 text="support chat",
-                                url=f"https://t.me/{SUPPORT_CHAT}",
+                                url="https://t.me/{SUPPORT_CHAT}",
                             ),
                             InlineKeyboardButton(
                                 text="founder",
