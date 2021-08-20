@@ -76,7 +76,7 @@ def get_readable_time(seconds: int) -> str:
     return ping_time
 
 
-PM_START_TEXT = "Hi {}, my name is {} 👸\n\n One of the Most Powerfull Telegram ProBot to Manage Your Groups🤗,feel free to add to your groups!!And mainly Created for Tamil users❤️. Many Tamil Fun Tools are there😋. You can check with /help ❣️!"
+PM_START_TEXT = "Hi {}, my name is {} 👸\n\n One of the Most Powerfull Telegram ProBot to Manage Your Groups,feel free to add to your groups And mainly Created for Tamil users  Many Tamil Fun Tools are there You can check with /help "
 
 HELP_STRINGS = """
 Hey there! My name is *{}*.
