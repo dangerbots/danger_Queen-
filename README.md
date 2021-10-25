@@ -1,11 +1,11 @@
-![Dream_Amgel](https://telegra.ph/file/86bc4072a903797c1262f.jpg)
-# Dream_Angel
+![Queen](https://telegra.ph/file/f460b2c37baa012bd6f7f.png)
+# queen
 
 A Telegram Python bot running on python3 forked with saitama with a sqlalchemy database and an entirely themed persona to make fun and good management for you in your groups.
 
-Can be found on telegram as [King_Cobra Fed bot](https://t.me/King_cobra_bot)
+Can be found on telegram as [Dangerbots](https://t.me/dangerbots)
 
-Updates channel as at [Stenzle](https://t.me/stenzle)
+My dev [kid](https://t.me/danger_of_telegram)
 
 ## How to setup or deploy
 
